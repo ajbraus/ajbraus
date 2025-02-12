@@ -1,4 +1,4 @@
-## Hi There
+## Learn to Code, Read My Books
 
 I'm Adam Braus. I'm an author, educator at the Applied Computer Science department at [Dominican University of California](https://www.dominican.edu/academics/undergraduate-programs/applied-computer-science-acs), engineer, and product designer and manager. 
 
